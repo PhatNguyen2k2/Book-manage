@@ -1,5 +1,5 @@
 ﻿
-namespace Book_manage_Csharp
+namespace Book_manage_Csharp.Views
 {
     partial class Form1
     {
@@ -38,4 +38,3 @@ namespace Book_manage_Csharp
         #endregion
     }
 }
-
